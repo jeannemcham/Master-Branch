@@ -1,2 +1,3 @@
 $git branch [Develop]
 $git checkout [Develop]
+$git init [Pop Singers Works]
